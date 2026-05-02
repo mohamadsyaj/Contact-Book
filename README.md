@@ -54,7 +54,7 @@ contact-book/
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone <repository-url>
 ```
 
 Navigate into the project directory:
